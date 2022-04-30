@@ -2,6 +2,8 @@
 
 Simple news application
 
+# Preview
+<img src="https://user-images.githubusercontent.com/35743597/166115578-c64704fd-315b-4a8a-9fa6-2caf49575a99.jpg"/>
 ## Architecture pattern Used
 [MVVM](https://developer.android.com/jetpack/guide)
 ![alt text][logo]
