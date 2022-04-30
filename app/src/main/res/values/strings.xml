@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- start bottom menu  -->
+    <string name="search_news">Search News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="breaking_news">Breaking News</string>
+    <!-- end bottom menu  -->
+
+    <!-- start item preview -->
+    <string name="source">SOURCE</string>
+    <string name="button">button</string>
+    <string name="search">Search...</string>
+    <!-- end item preview -->
+</resources>
